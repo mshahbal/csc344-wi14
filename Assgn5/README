@@ -1,0 +1,3 @@
+Asgn5 mshahbal
+
+Simply compile with javac and run the executable. You will be asked to enter the name of the track you wish to alter. Enter the name of the song exactly as the file is named, excluding the extension. Song must be in .wav format. You will then be asked to enter the tempo of the song (in beats per minute). The program will go to work and spit out a new file title "[Track Name] - Chopped & Screwed.wav".
